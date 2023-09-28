@@ -4,6 +4,8 @@ import Search from "./Search";
 import MessageList from "./MessageList";
 import NewMessage from "./NewMessage";
 
+//testing
+
 const testUser = { username: "Duane" };
 
 function App() {
